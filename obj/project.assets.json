@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thiesens/Documents/Projects/N1-TestApi/N1TestApi/N1TestApi.csproj",
+      "projectUniqueName": "/Users/thiesens/Projects/N1-TeatApi/N1TestApi.csproj",
       "projectName": "N1TestApi",
-      "projectPath": "/Users/thiesens/Documents/Projects/N1-TestApi/N1TestApi/N1TestApi.csproj",
+      "projectPath": "/Users/thiesens/Projects/N1-TeatApi/N1TestApi.csproj",
       "packagesPath": "/Users/thiesens/.nuget/packages/",
-      "outputPath": "/Users/thiesens/Documents/Projects/N1-TestApi/N1TestApi/obj/",
+      "outputPath": "/Users/thiesens/Projects/N1-TeatApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thiesens/.nuget/NuGet/NuGet.Config"
